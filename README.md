@@ -1,21 +1,22 @@
-# Hi there, I'm Abhijith - aka [ABGTH][website] 👋 
+<h1 align="center">Hi there, I'm Abhijith - aka [ABGTH][website] 👋</h1>
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for oppurtunities as a software developer
 - 🥅 2022 Goals: Contribute more to Open source projects
 - ⚡ Fun fact: I love to read and play soccer
+- 📬 Reach out to me here abhijithak683@gmail.com
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://abgth-dev.web.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://abgth-dev.web.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://abgth-dev.web.app/#gh-light-mode-only "Portfolio Website")
+[![website](./img/globe-dark.svg)](https://abgth-dev.web.app/#gh-dark-mode-only "Portfolio Website")
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhijith-a-356850192/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhijith-a-356850192/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhijith-a-356850192/#gh-light-mode-only "Linkedin")
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhijith-a-356850192/#gh-dark-mode-only "Linkedin")
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/__abgth?utm_medium=copy_link#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/__abgth?utm_medium=copy_link#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/__abgth?utm_medium=copy_link#gh-light-mode-only "Instagram")
+[![website](./img/instagram-dark.svg)](https://instagram.com/__abgth?utm_medium=copy_link#gh-dark-mode-only "Instagram")
 
 ### Languages and Tools:
 
@@ -40,17 +41,6 @@
 ### ✨ GitHub Stats
 
 <img align="left" alt="Abhijith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x-abgth&show_icons=true&hide_border=false&title_color=2196F3&icon_color=FFE400&bg_color=80,09131B,161616&text_color=ffffff&border_color=0c1a25" />
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-4. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
 
 </details>
 
