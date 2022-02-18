@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhijith - aka [ABGTH][website] 👋</h1>
+<h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a>👋</h1>
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -42,8 +42,4 @@
 
 <img align="left" alt="Abhijith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x-abgth&show_icons=true&hide_border=false&title_color=2196F3&icon_color=FFE400&bg_color=80,09131B,161616&text_color=ffffff&border_color=0c1a25" />
 
-</details>
-
-[website]: https://abgth-dev.web.app/
-[instagram]: https://instagram.com/__abgth?utm_medium=copy_link
-[linkedin]: https://www.linkedin.com/in/abhijith-a-356850192/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
