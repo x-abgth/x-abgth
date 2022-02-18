@@ -39,7 +39,7 @@
 
 ### ✨ GitHub Stats
 
-<img align="left" alt="Abhijith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x-abgth&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B,161616&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Abhijith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=x-abgth&show_icons=true&hide_border=false&title_color=2196F3&icon_color=FFE400&bg_color=80,09131B,161616&text_color=ffffff&border_color=0c1a25" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
