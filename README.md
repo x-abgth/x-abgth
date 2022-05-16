@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a> 👋</h1>
 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for oppurtunities as a software developer
-- 🥅 2022 Goals: Contribute more to Open source projects
-- ⚡ Fun fact: I love to read and play soccer
-- 📬 Reach out to me here abhijithak683@gmail.com
+<b>Mobile Application Developer | Flutter developer</b>
+* 🌍  I'm based in Kerala, India
+* 🖥️  See my portfolio at [abgth-dev.web.app](http://abgth-dev.web.app)
+* ✉️  You can contact me at [abhijithak683+github@gmail.com](mailto:abhijithak683+github@gmail.com)
+* 🚀  I'm currently working on [Lite chat Application](http://github.com/x-abgth/lite_chat)
+* 🧠  I'm learning Golang (GO)
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/ "MySQL")
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
 [<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/xd/xd-line.svg" style="padding-right:10px;" />](https://www.adobe.com/in/products/xd.html "Adobe Xd")
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/ "Git")
+<!-- [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/ "Git") -->
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/ "GitHub")
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/ "GitHub")
 
