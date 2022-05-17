@@ -21,6 +21,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/ "Flutter")
+[<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" style="padding-right:10px;" />](https://go.dev/ "Golang")
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML "HTML")
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS "CSS")
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/ "JavaScript")
