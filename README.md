@@ -5,8 +5,8 @@
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [abgth-dev.web.app](http://abgth-dev.web.app)
 * ✉️  You can contact me at [abhijithak683+github@gmail.com](mailto:abhijithak683+github@gmail.com)
-* 🚀  I'm currently working on [Lite chat Application](http://github.com/x-abgth/lite_chat)
-* 🧠  I'm learning Golang (GO)
+* 🚀  I'm currently working on a chat application using Golang 
+* 🧠  I'm currently learning Golang (GO)
 
 ### Connect with me:
 
