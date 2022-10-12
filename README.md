@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a> 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-abgth&label=Profile%20views&color=0e75b6&style=flat" alt="x-abgth" /> </p>
 
-<b>Mobile Application Developer | Flutter developer</b>
+<b>Golang developer</b>
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [abgth-dev.web.app](http://abgth-dev.web.app)
 * ✉️  You can contact me at [abhijithak683+github@gmail.com](mailto:abhijithak683+github@gmail.com)
 * 🚀  I'm currently working on a chat application using Golang 
-* 🧠  I'm currently learning Golang (GO)
+* 🧠  I'm familiar with Flutter also
 
 ### Connect with me:
 
