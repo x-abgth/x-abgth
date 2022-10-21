@@ -1,7 +1,12 @@
 <h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a> 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x-abgth&label=Profile%20views&color=0e75b6&style=flat" alt="x-abgth" /> </p>
 
 <b>Golang developer</b>
+<div style="display: flex;">
+  <img src="https://badgen.net/badge/hello/world/red?icon=twitter" alt="x-abgth" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="x-abgth" />&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=x-abgth&label=Profile%20views&color=0e75b6&style=flat" alt="x-abgth" />
+</div><br>
+
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [abgth-dev.web.app](http://abgth-dev.web.app)
 * ✉️  You can contact me at [abhijithak683+github@gmail.com](mailto:abhijithak683+github@gmail.com)
@@ -21,21 +26,31 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/ "Flutter")
-[<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />](https://go.dev/ "Golang")
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML "HTML")
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS "CSS")
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/ "JavaScript")
-[<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/ "Firebase")
-[<img align="left" alt="php" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.phpmyadmin.net/ "PHP")
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/ "MySQL")
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
-[<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/xd/xd-line.svg" style="padding-right:10px;" />](https://www.adobe.com/in/products/xd.html "Adobe Xd")
-<!-- [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/ "Git") -->
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/ "GitHub")
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/ "GitHub")
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="arch" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="code" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="code" /> 
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="arch" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="code" /> 
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="code" /> 
+</div>
 
-<br />
 <br />
 
 ---
