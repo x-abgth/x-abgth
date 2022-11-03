@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a> 👋</h1>
 
-<b>Golang developer</b>
+<b>Golang developer | Flutter developer</b>
 <div style="display: flex;">
   <img src="https://badgen.net/badge/hello/world/red?icon=twitter" alt="x-abgth" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="x-abgth" />&nbsp;&nbsp;
