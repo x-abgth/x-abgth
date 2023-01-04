@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhijith - aka <a href="https://abgth-dev.web.app/">ABGTH</a> 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=43dde6&size=30&lines=Hey!+It's+Abhijith+!;A+Golang+developer...;Also+proficient+in+Flutter;)](https://git.io/typing-svg)
 
 <b>Golang developer | Flutter developer</b>
 <div style="display: flex;">
