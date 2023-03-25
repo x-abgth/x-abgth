@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=43dde6&size=30&lines=Hey!+It's+Abhijith+!;A+Golang+developer...;Also+proficient+in+Flutter;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey!+It's+Abhijith;A+backend+developer;Passionate+in+DevOps;Also+learnt+Flutter+development)](https://git.io/typing-svg)
 
 <b>Golang developer | Flutter developer</b>
 <div style="display: flex;">
